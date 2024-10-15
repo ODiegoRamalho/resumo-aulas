@@ -6,6 +6,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso versionamento de
 ## 📃Documentação
 - [Documentação Git](https://git-scm.com/docs/git/pt_BR)
 - [Documentação GitHub](https://docs.github.com/pt)
+- [Material / Elidianaandrade](https://github.com/elidianaandrade/dio-curso-git-github?tab=readme-ov-file)
+
 
 ## 👨🏽‍💻 Resumo das aulas
 | Aulas | Resumos |
